@@ -1,6 +1,6 @@
-# Week 4
+# Week 5
 
-### Assignment: Subqueries
+### Assignment: Aggregate Queries
 
 ### Question 1
 select max(elevation_ft) from airport;
