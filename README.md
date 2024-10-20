@@ -12,12 +12,14 @@ Select * from goal;
 ### Question 2
 Select name, type from airport where iso_country = 'FI';
 
+![Screenshot (14)](https://github.com/user-attachments/assets/fc8413a7-4c8f-4d8d-b1eb-38cbec2643cc)
 
 
 ### Question 3
 select name from airport where iso_country = "FI" order by name;
+![Screenshot (15)](https://github.com/user-attachments/assets/68734681-da9c-4789-8998-da6a1f8eb84e)
 
-![screenshot](/Screenshots/SingleTable_3.png)
+
 
 ### Question 4
 select name, type from airport where iso_country = "FI" order by type,name;
