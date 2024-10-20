@@ -30,7 +30,7 @@ group by country.iso_country
 order by count(*) desc
 limit 50;
 
-
+Error !
 
 ### Question 6
 select country.name
